@@ -31,6 +31,41 @@
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581991084870" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Maven.[]">
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="WORKING_DIRECTORY" value="D:\Users\Capybara\Documents\GitHub\dnd" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$APPLICATION_HOME_DIR$/jbr" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JAR Application.Unnamed" />
+      <item itemvalue="Maven.[]" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,13 +81,53 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1013" y="256" key="#Unnamed" timestamp="1584988234603">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1013" y="256" key="#Unnamed/0.0.2560.1040@0.0.2560.1040" timestamp="1584988234603" />
+    <state x="234" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584988643477">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="234" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1584988643477" />
     <state x="1128" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584569620047">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1128" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1584569620047" />
-    <state x="975" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1584569559923">
+    <state x="572" y="307" key="FileChooserDialogImpl" timestamp="1584988657332">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="975" y="343" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1584569559923" />
+    <state x="572" y="307" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1584988657332" />
+    <state width="1184" height="266" key="GridCell.Tab.0.bottom" timestamp="1584988462623">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1184" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1584988462623" />
+    <state width="1184" height="266" key="GridCell.Tab.0.center" timestamp="1584988462623">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1184" height="266" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1584988462623" />
+    <state width="1184" height="266" key="GridCell.Tab.0.left" timestamp="1584988462622">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1184" height="266" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1584988462622" />
+    <state width="1184" height="266" key="GridCell.Tab.0.right" timestamp="1584988462623">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1184" height="266" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1584988462623" />
+    <state x="1238" y="227" key="SettingsEditor" timestamp="1584991633609">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1238" y="227" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1584991633609" />
+    <state x="975" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1584986144367">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="975" y="343" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1584986144367" />
+    <state x="175" y="173" key="new project wizard" timestamp="1584988681488">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="175" y="173" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1584988681488" />
+    <state x="350" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1584987489153">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="350" y="361" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1584987489153" />
   </component>
 </project>
